@@ -4,6 +4,7 @@
   "description": "Free Code Camp back end project",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tiago Valverde",
